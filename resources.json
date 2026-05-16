@@ -1,0 +1,274 @@
+{
+  "version": 1,
+  "updated": "2026-05-16T19:05:01.211Z",
+  "tabs": [
+    {
+      "id": "resources",
+      "label": "IC Resources"
+    },
+    {
+      "id": "catalogs",
+      "label": "Catalogs & Pricing"
+    },
+    {
+      "id": "orders",
+      "label": "Order Forms"
+    },
+    {
+      "id": "install",
+      "label": "Installation"
+    },
+    {
+      "id": "warranty",
+      "label": "Warranty"
+    },
+    {
+      "id": "templates",
+      "label": "Templates"
+    }
+  ],
+  "resources": [
+    {
+      "tab": "catalogs",
+      "title": "IC 2020 Design Catalog",
+      "meta": "v.INTG26A-260206 · Updated Feb 2026",
+      "badge": {
+        "type": "monogram",
+        "text": "IC"
+      },
+      "url": "#",
+      "featured": true
+    },
+    {
+      "tab": "catalogs",
+      "title": "IC 2020 - Report Catalog Issues",
+      "meta": "",
+      "badge": {
+        "type": "monogram",
+        "text": "IC"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "resources",
+      "title": "2025 Price Book",
+      "meta": "April 2025",
+      "badge": {
+        "type": "doctype",
+        "text": "IC"
+      },
+      "url": "#",
+      "featured": true
+    },
+    {
+      "tab": "resources",
+      "title": "IC Quick Quote 2026",
+      "meta": "Effective Feb 26, 2026",
+      "badge": {
+        "type": "doctype",
+        "text": "QQ"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "resources",
+      "title": "IC Quick Quote Troubleshooting",
+      "meta": "Guide",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "orders",
+      "title": "IC Order Form",
+      "meta": "Fillable PDF",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "orders",
+      "title": "IC Door & Drawer Front Size Lookup",
+      "meta": "Reference tool",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "orders",
+      "title": "Stanisci Program Information",
+      "meta": "Speciality Hood Program",
+      "badge": {
+        "type": "monogram",
+        "text": "ST"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "install",
+      "title": "Rev-A-Shelf - Pilaster System",
+      "meta": "Installation",
+      "badge": {
+        "type": "monogram",
+        "text": "RA"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "install",
+      "title": "Blum - Soft-Close Hinges",
+      "meta": "Adjustment guide",
+      "badge": {
+        "type": "monogram",
+        "text": "BL"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "install",
+      "title": "BEP & REP Anchor Instructions",
+      "meta": "Instructions",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "install",
+      "title": "IC Blind Cabinets Information",
+      "meta": "Cabinet Information",
+      "badge": {
+        "type": "monogram",
+        "text": "IC"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "install",
+      "title": "IC Chimney Wood Hood",
+      "meta": "Install & removal",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "install",
+      "title": "IC Shiplap Chimney Installation Sheet",
+      "meta": "Install & removal",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "warranty",
+      "title": "IC Pro Series",
+      "meta": "Warranty · Coverage details",
+      "badge": {
+        "type": "monogram",
+        "text": "PR"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "warranty",
+      "title": "IC Pro 1 Series",
+      "meta": "Warranty · Coverage details",
+      "badge": {
+        "type": "monogram",
+        "text": "P1"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "warranty",
+      "title": "IC Classic Series",
+      "meta": "Warranty · Coverage details",
+      "badge": {
+        "type": "monogram",
+        "text": "CL"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "warranty",
+      "title": "IC Elite Series",
+      "meta": "Warranty · Coverage details",
+      "badge": {
+        "type": "monogram",
+        "text": "EL"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "templates",
+      "title": "IC Drawing Template Forms",
+      "meta": "Templates",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "install",
+      "title": "Base Pull Out Installation",
+      "meta": "Installation",
+      "badge": {
+        "type": "monogram",
+        "text": "YT"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "catalogs",
+      "title": "IC ProKitchen - Pro & Classic",
+      "meta": "Request Link",
+      "badge": {
+        "type": "monogram",
+        "text": "PK"
+      },
+      "url": "https://www.prokitchensoftware.com/manufacturer-catalog-downloads/4/",
+      "featured": false
+    },
+    {
+      "tab": "catalogs",
+      "title": "IC ProKitchen - Elite",
+      "meta": "Request Link",
+      "badge": {
+        "type": "monogram",
+        "text": "PK"
+      },
+      "url": "https://www.prokitchensoftware.com/manufacturer-catalog-downloads/4/",
+      "featured": false
+    }
+  ]
+}
