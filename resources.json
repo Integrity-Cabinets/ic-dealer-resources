@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-17T18:26:29.276Z",
+  "updated": "2026-05-17T18:27:32.914Z",
   "tabs": [
     {
       "id": "resources",
@@ -278,7 +278,7 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/blob/main/IC_Resources/IC_Matching_Paper_For_Pro_Box.pdf",
+      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/raw/main/IC_Resources/IC_Matching_Paper_For_Pro_Box.pdf",
       "featured": false
     }
   ]
