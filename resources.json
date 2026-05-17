@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-17T19:12:28.778Z",
+  "updated": "2026-05-17T20:04:11.530Z",
   "tabs": [
     {
       "id": "resources",
@@ -58,7 +58,7 @@
         "type": "doctype",
         "text": "IC"
       },
-      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/raw/refs/heads/main/IC_Resources/Integrity_Cabinets_Price_Book_2025.zip",
+      "url": "https://drive.google.com/uc?export=download&id=1OZg1Y_DMzMtkHaYcJLAuEIx3UkJuJWpv",
       "featured": true
     },
     {
@@ -69,7 +69,7 @@
         "type": "doctype",
         "text": "QQ"
       },
-      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/raw/refs/heads/main/Order%20Forms/IC_QuickQuote_V2026_02_26.xlsm",
+      "url": "https://drive.google.com/uc?export=download&id=1yTbrk8BEKfTPU4Q8b9_asajj99I0iw6h",
       "featured": false
     },
     {
@@ -80,7 +80,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=14_8KgkQXkAsc6w5-I4s4Ecc2CjoXWYJV",
       "featured": false
     },
     {
@@ -91,7 +91,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1dYIH7bPSKv1PrWyVOLPAB-ysC3UkxfbF",
       "featured": false
     },
     {
@@ -102,7 +102,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/raw/refs/heads/main/IC_Resources/Door_Drawer_Front_Lookup_10-28.xlsx",
+      "url": "https://docs.google.com/spreadsheets/d/106uUA9pF0I0Od2JgvG1ndwAp-ur_G4x2/export?format=xlsx",
       "featured": false
     },
     {
@@ -124,7 +124,7 @@
         "type": "monogram",
         "text": "RA"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=15JEUN9RJvckPpSRcdGs5POjR_3fIY2Vw",
       "featured": false
     },
     {
@@ -135,7 +135,7 @@
         "type": "monogram",
         "text": "BL"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1t7D34oCxYwjLaZqFGFCTo5bxIi2IWxmI",
       "featured": false
     },
     {
@@ -146,7 +146,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1a8_8EKCkQemSiwVk5K6oZUYKAdBz47NP",
       "featured": false
     },
     {
@@ -157,7 +157,7 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1LsfFPIfcCb7nk6tBJ1L6wHfWLup1vb1O",
       "featured": false
     },
     {
@@ -168,7 +168,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1e4tafpZGal_rHsVR7tbUhR6cQhW4Vfio",
       "featured": false
     },
     {
@@ -179,7 +179,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1k99SRz_izlwdUbtjwHYmwPT13gWyl7Bf",
       "featured": false
     },
     {
@@ -234,7 +234,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1cPMfnMACN37YVilxcfBmhHQAWGfouuoB",
       "featured": false
     },
     {
@@ -278,7 +278,7 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "https://github.com/derekmsuggs18/ic-dealer-resources/raw/main/IC_Resources/IC_Matching_Paper_For_Pro_Box.pdf",
+      "url": "https://drive.google.com/uc?export=download&id=1uOuc-X5C8GkI9rrZfqiD6Mn2ULIhYXkj",
       "featured": false
     }
   ]
