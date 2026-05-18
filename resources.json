@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-18T12:59:08.083Z",
+  "updated": "2026-05-18T13:17:46.336Z",
   "tabs": [
     {
       "id": "resources",
@@ -36,7 +36,7 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "#",
+      "url": "https://github.com/Integrity-Cabinets/ic-dealer-resources/releases/download/INTG26A-260206/INTG26A-260206.Zip",
       "featured": true
     },
     {
@@ -47,7 +47,7 @@
         "type": "doctype",
         "text": "QQ"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1yTbrk8BEKfTPU4Q8b9_asajj99I0iw6h",
       "featured": false
     },
     {
@@ -55,11 +55,11 @@
       "title": "IC Price Book - 2025",
       "meta": "April 2025",
       "badge": {
-        "type": "doctype",
-        "text": "ZIP"
+        "type": "monogram",
+        "text": "IC"
       },
-      "url": "#",
-      "featured": false
+      "url": "https://drive.google.com/uc?export=download&id=1OZg1Y_DMzMtkHaYcJLAuEIx3UkJuJWpv",
+      "featured": true
     },
     {
       "tab": "orders",
@@ -69,7 +69,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=14_8KgkQXkAsc6w5-I4s4Ecc2CjoXWYJV",
       "featured": false
     },
     {
@@ -80,7 +80,7 @@
         "type": "doctype",
         "text": "FORM"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1dYIH7bPSKv1PrWyVOLPAB-ysC3UkxfbF",
       "featured": false
     },
     {
@@ -91,7 +91,7 @@
         "type": "monogram",
         "text": "ST"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1S_IRc7SSaO1sTSPyXqDA3xtQSMLqdey0",
       "featured": false
     },
     {
@@ -99,10 +99,10 @@
       "title": "IC Door & Drawer Front Size Lookup",
       "meta": "Reference tool",
       "badge": {
-        "type": "doctype",
+        "type": "monogram",
         "text": "IC"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1RFhvFj5YIRq00XuPfdCKUG4f51vaog_0",
       "featured": false
     },
     {
@@ -113,7 +113,7 @@
         "type": "monogram",
         "text": "RA"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=15JEUN9RJvckPpSRcdGs5POjR_3fIY2Vw",
       "featured": false
     },
     {
@@ -124,7 +124,7 @@
         "type": "monogram",
         "text": "BL"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1t7D34oCxYwjLaZqFGFCTo5bxIi2IWxmI",
       "featured": false
     },
     {
@@ -135,7 +135,7 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1LsfFPIfcCb7nk6tBJ1L6wHfWLup1vb1O",
       "featured": false
     },
     {
@@ -146,7 +146,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1e4tafpZGal_rHsVR7tbUhR6cQhW4Vfio",
       "featured": false
     },
     {
@@ -157,7 +157,7 @@
         "type": "monogram",
         "text": "P1"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1ztCaNihkYsR31zdqHr585AuElKiETTDi",
       "featured": false
     },
     {
@@ -168,7 +168,7 @@
         "type": "monogram",
         "text": "PR"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1zo1mQzH8x7-cSmwkaXzhat7Z4GkuAyde",
       "featured": false
     },
     {
@@ -179,7 +179,7 @@
         "type": "monogram",
         "text": "CL"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=180mZThkKkRGRPUiQEilJfrpgV9eBAQP0",
       "featured": false
     },
     {
@@ -190,7 +190,7 @@
         "type": "monogram",
         "text": "EL"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1pcu0cKbusJWgeGxCPmR46bBPqbjDEO0h",
       "featured": false
     },
     {
@@ -201,7 +201,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1cPMfnMACN37YVilxcfBmhHQAWGfouuoB",
       "featured": false
     },
     {
@@ -212,7 +212,7 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1uOuc-X5C8GkI9rrZfqiD6Mn2ULIhYXkj",
       "featured": false
     },
     {
@@ -234,7 +234,7 @@
         "type": "monogram",
         "text": "PK"
       },
-      "url": "#",
+      "url": "https://www.prokitchensoftware.com/manufacturer-catalog-downloads/4/",
       "featured": false
     },
     {
@@ -245,7 +245,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1k99SRz_izlwdUbtjwHYmwPT13gWyl7Bf",
       "featured": false
     },
     {
@@ -256,7 +256,7 @@
         "type": "monogram",
         "text": "YT"
       },
-      "url": "#",
+      "url": "https://youtu.be/fPPRyXQxwgw?feature=shared",
       "featured": false
     },
     {
@@ -267,7 +267,7 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "#",
+      "url": "https://drive.google.com/uc?export=download&id=1a8_8EKCkQemSiwVk5K6oZUYKAdBz47NP",
       "featured": false
     }
   ]
