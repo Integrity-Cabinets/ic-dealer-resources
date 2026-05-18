@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-18T18:49:33.237Z",
+  "updated": "2026-05-18T19:33:00.031Z",
   "tabs": [
     {
       "id": "resources",
@@ -200,7 +200,7 @@
     {
       "tab": "templates",
       "title": "IC Drawing Template Forms",
-      "meta": "Browser-based portal",
+      "meta": "PDF",
       "badge": {
         "type": "doctype",
         "text": "PDF"
