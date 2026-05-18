@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-18T13:17:46.336Z",
+  "updated": "2026-05-18T15:12:29.161Z",
   "tabs": [
     {
       "id": "resources",
@@ -9,6 +9,10 @@
     {
       "id": "catalogs",
       "label": "Catalogs & Pricing"
+    },
+    {
+      "id": "Salesaid",
+      "label": "Sales Aid"
     },
     {
       "id": "orders",
@@ -268,6 +272,72 @@
         "text": "PDF"
       },
       "url": "https://drive.google.com/uc?export=download&id=1a8_8EKCkQemSiwVk5K6oZUYKAdBz47NP",
+      "featured": false
+    },
+    {
+      "tab": "Salesaid",
+      "title": "IC Pro 1 & Classic Brochure",
+      "meta": "Brochure",
+      "badge": {
+        "type": "monogram",
+        "text": "IC"
+      },
+      "url": "#",
+      "featured": true
+    },
+    {
+      "tab": "Salesaid",
+      "title": "IC Elite Brochure",
+      "meta": "Brochure",
+      "badge": {
+        "type": "monogram",
+        "text": "IC"
+      },
+      "url": "https://drive.google.com/uc?export=download&id=17R3Jd5XC0RGgZtS6es92pVX6tXWjNb_4",
+      "featured": false
+    },
+    {
+      "tab": "Salesaid",
+      "title": "IC Corbel, Bar Brackets & Countertops",
+      "meta": "Resource",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "https://drive.google.com/uc?export=download&id=1dKEQK-aYi_jOUsIMUyxzbUpJ_nfqfsaB",
+      "featured": false
+    },
+    {
+      "tab": "Salesaid",
+      "title": "IC Post & Legs",
+      "meta": "Brochure",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "#",
+      "featured": false
+    },
+    {
+      "tab": "Salesaid",
+      "title": "IC Hoods, Vents, & Liners - 2026",
+      "meta": "Resource",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "https://drive.google.com/uc?export=download&id=17R3Jd5XC0RGgZtS6es92pVX6tXWjNb_4",
+      "featured": false
+    },
+    {
+      "tab": "Salesaid",
+      "title": "IC Decorative Mullion Inserts - 2026",
+      "meta": "Resource",
+      "badge": {
+        "type": "doctype",
+        "text": "PDF"
+      },
+      "url": "https://drive.google.com/uc?export=download&id=124JRQvja6mUyPuBpR8ZH-zLqbIzVRn0V",
       "featured": false
     }
   ]
