@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-18T20:27:05.096Z",
+  "updated": "2026-05-18T20:31:35.861Z",
   "tabs": [
     {
       "id": "resources",
@@ -338,6 +338,17 @@
         "text": "PDF"
       },
       "url": "https://drive.google.com/uc?export=download&id=124JRQvja6mUyPuBpR8ZH-zLqbIzVRn0V",
+      "featured": false
+    },
+    {
+      "tab": "resources",
+      "title": "IC Logos",
+      "meta": "Branding",
+      "badge": {
+        "type": "monogram",
+        "text": "IC"
+      },
+      "url": "https://drive.google.com/uc?export=download&id=1UZsIct0_3qGdl2r3QFLxLrLJkF0s9wOI",
       "featured": false
     }
   ]
