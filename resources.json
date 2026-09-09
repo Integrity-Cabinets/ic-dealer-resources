@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-09T15:36:05.387Z",
+  "updated": "2026-09-09T15:43:01.497Z",
   "tabs": [
     {
       "id": "resources",
@@ -47,17 +47,6 @@
       "url": "https://github.com/Integrity-Cabinets/ic-dealer-resources/releases/download/INTG264A-260520/INTG264A-260520.Zip",
       "featured": true,
       "new": "2026-05-29"
-    },
-    {
-      "tab": "orders",
-      "title": "IC Quick Quote 2026",
-      "meta": "Effective Feb 26, 2026",
-      "badge": {
-        "type": "doctype",
-        "text": "QQ"
-      },
-      "url": "https://drive.google.com/uc?export=download&id=1yTbrk8BEKfTPU4Q8b9_asajj99I0iw6h",
-      "featured": false
     },
     {
       "tab": "resources",
