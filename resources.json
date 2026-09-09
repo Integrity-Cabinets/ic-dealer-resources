@@ -1,6 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-09-09T15:45:07.549Z",
+  "updated": "2026-09-09T17:06:58.268Z",
+  "header": {
+    "eyebrow": "Integrity Cabinets",
+    "title": "Downloadable Resources",
+    "subtitle": "Catalogs, order forms, installation guides, and warranty documents for Integrity Cabinets dealers.",
+    "showStamp": true
+  },
   "tabs": [
     {
       "id": "resources",
