@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-09T15:44:07.395Z",
+  "updated": "2026-09-09T15:45:07.549Z",
   "tabs": [
     {
       "id": "resources",
@@ -90,8 +90,7 @@
         "text": "ST"
       },
       "url": "https://github.com/Integrity-Cabinets/ic-dealer-resources/releases/download/INTST26-260523/INTST26-260523.Zip",
-      "featured": true,
-      "new": "2026-05-29"
+      "featured": true
     },
     {
       "tab": "hoods",
@@ -102,8 +101,7 @@
         "text": "ST"
       },
       "url": "https://drive.google.com/uc?export=download&id=1S_IRc7SSaO1sTSPyXqDA3xtQSMLqdey0",
-      "featured": false,
-      "new": "2026-05-29"
+      "featured": false
     },
     {
       "tab": "resources",
