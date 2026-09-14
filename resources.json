@@ -1,12 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-09T17:48:19.248Z",
-  "header": {
-    "eyebrow": "Integrity Cabinets",
-    "title": "Downloadable Resources",
-    "subtitle": "Catalogs, order forms, installation guides, and warranty documents for Integrity Cabinets dealers.",
-    "showStamp": true
-  },
+  "updated": "2026-09-14T14:58:22.287Z",
   "tabs": [
     {
       "id": "resources",
@@ -64,6 +58,18 @@
       },
       "url": "https://drive.google.com/uc?export=download&id=1O86EJRzohe0Eih2QiCvc3JZGOu108Qkn",
       "featured": true
+    },
+    {
+      "tab": "orders",
+      "title": "Integrity Cabinets Quick Quote",
+      "meta": "Updated 09_14_2026",
+      "badge": {
+        "type": "monogram",
+        "text": "QQ"
+      },
+      "url": "https://drive.google.com/uc?export=download&id=1PHxc_z136SMf0jbGkEF7Ji_2nj9fhJYN",
+      "featured": true,
+      "new": "2026-09-14"
     },
     {
       "tab": "orders",
