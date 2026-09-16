@@ -1,6 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-09-14T14:58:22.287Z",
+  "updated": "2026-09-16T19:12:38.491Z",
+  "header": {
+    "eyebrow": "Integrity Cabinets",
+    "title": "Downloadable Resources",
+    "subtitle": "",
+    "showStamp": true
+  },
   "tabs": [
     {
       "id": "resources",
@@ -123,8 +129,9 @@
         "type": "monogram",
         "text": "IC"
       },
-      "url": "https://docs.google.com/spreadsheets/d/106uUA9pF0I0Od2JgvG1ndwAp-ur_G4x2/export?format=xlsx",
-      "featured": false
+      "url": "https://ic-door-lookup.netlify.app/",
+      "featured": true,
+      "new": "2026-09-16"
     },
     {
       "tab": "install",
