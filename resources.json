@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-10T20:17:57.384Z",
+  "updated": "2026-11-10T20:20:32.448Z",
   "header": {
     "eyebrow": "Integrity Cabinets",
     "title": "Downloadable Resources",
@@ -51,7 +51,8 @@
         "text": "IC"
       },
       "url": "https://github.com/Integrity-Cabinets/ic-dealer-resources/releases/download/INTG265A-260908/INTG265A-260908.Zip",
-      "featured": true
+      "featured": true,
+      "new": "2026-05-29"
     },
     {
       "tab": "resources",
@@ -84,8 +85,8 @@
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "https://ic-quick-quote.netlify.app/how-to.html",
-      "featured": true,
+      "url": "ic-quick-quote.netlify.app/how-to.html",
+      "featured": false,
       "new": "2026-11-10"
     },
     {
@@ -252,7 +253,8 @@
         "text": "IC"
       },
       "url": "https://drive.google.com/uc?export=download&id=1vzCwSI7bYcZPt8T3aC_rqhXNHYDeoU8J",
-      "featured": true
+      "featured": false,
+      "new": "2026-05-29"
     },
     {
       "tab": "catalogs",
