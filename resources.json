@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-16T19:14:35.109Z",
+  "updated": "2026-11-10T20:17:57.384Z",
   "header": {
     "eyebrow": "Integrity Cabinets",
     "title": "Downloadable Resources",
@@ -51,8 +51,7 @@
         "text": "IC"
       },
       "url": "https://github.com/Integrity-Cabinets/ic-dealer-resources/releases/download/INTG265A-260908/INTG265A-260908.Zip",
-      "featured": true,
-      "new": "2026-05-29"
+      "featured": true
     },
     {
       "tab": "resources",
@@ -68,25 +67,26 @@
     {
       "tab": "orders",
       "title": "Integrity Cabinets Quick Quote",
-      "meta": "Updated 09_14_2026",
+      "meta": "Version 1.0",
       "badge": {
         "type": "monogram",
         "text": "QQ"
       },
-      "url": "https://drive.google.com/uc?export=download&id=1PHxc_z136SMf0jbGkEF7Ji_2nj9fhJYN",
+      "url": "https://ic-quick-quote.netlify.app/",
       "featured": true,
       "new": "2026-09-14"
     },
     {
       "tab": "orders",
-      "title": "IC Quick Quote Troubleshooting",
+      "title": "IC Quick Quote How To",
       "meta": "Guide",
       "badge": {
         "type": "doctype",
         "text": "PDF"
       },
-      "url": "https://drive.google.com/uc?export=download&id=14_8KgkQXkAsc6w5-I4s4Ecc2CjoXWYJV",
-      "featured": false
+      "url": "https://ic-quick-quote.netlify.app/how-to.html",
+      "featured": true,
+      "new": "2026-11-10"
     },
     {
       "tab": "orders",
@@ -252,8 +252,7 @@
         "text": "IC"
       },
       "url": "https://drive.google.com/uc?export=download&id=1vzCwSI7bYcZPt8T3aC_rqhXNHYDeoU8J",
-      "featured": false,
-      "new": "2026-05-29"
+      "featured": true
     },
     {
       "tab": "catalogs",
